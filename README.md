@@ -1,2 +1,2 @@
-# Data-Visualization
-PowerBI Data Visualization
+# Generative AI
+Generative AI
