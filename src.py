@@ -37,7 +37,7 @@ class MerlinBot:
 
         index=pinecone.Index('gen-ai-hack') 
         # get api key from platform.openai.com
-        openai.api_key = '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'
+        openai.api_key = ''
 
         embed_model = "text-embedding-ada-002"
 
