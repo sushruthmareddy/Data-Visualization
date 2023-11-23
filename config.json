@@ -1,6 +1,6 @@
 {
-    "OPEN_API_KEY":"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",
-    "PINECONE_API_KEY":"374157c4-4a6d-4c1d-9f84-880404778b3e",
-    "PINECONE_API_ENV":"gcp-starter",
-    "PINECONE_INDEX_NAME":"gen-ai-hack"
+    "OPEN_API_KEY":"",
+    "PINECONE_API_KEY":"",
+    "PINECONE_API_ENV":"",
+    "PINECONE_INDEX_NAME":""
 }
